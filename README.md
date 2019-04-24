@@ -5,7 +5,7 @@ A full day introduction to jQuery workshop.
 
 ### Quick Links
 
-Instructor Notes: http://ladieslearningcode.github.io/teenslc-intro-to-jquery/notes-en.html
+Instructor Notes: http://ladieslearningcode.github.io/teenslc-intro-to-jquery/instructor-notes.html
 Preview Slides: http://ladieslearningcode.github.io/teenslc-intro-to-jquery/slides.html
 
 ### Attributions
